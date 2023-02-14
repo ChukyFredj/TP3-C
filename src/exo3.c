@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "../header/exo3.h"
-
-#include <stdio.h>
 #include <string.h>
 
 void creation_livre(struct Livre *livre, char* nom, char* auteur, char* maison_edition, char* code_barre) {
